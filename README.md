@@ -99,7 +99,7 @@ fmtownshr -ramsize 4m -flop1 "fd1.img" -flop2 "fd2.img" -cdrm "cd.chd" -hard1 "h
 
 * Filenames are wrapped in quotes to support spaces
 * CMD files are portable across OS (Windows / Linux / Android)
-* Media chages must be done via MAME menu (not RetroArch)
+* Media changes must be done from the MAME menu (not RetroArch)
 
 **IMPORTANT**
 Place BIOS, disk images, and CMD file in the SAME folder.
