@@ -18,7 +18,7 @@ Click the button for the disk image you want to create.
 * Creates blank floppy disk images
 * Default extension: `.img`
 * Supported formats: `RAW` (`.img`, `.hdm`, `.bin`) and `.d88`
-* To create a formatted image, please check the Full Format box
+* To create a formatted disk image, please check the Full Format box
 * Click an [FD] button, then choose the destination and file name
 
 **IMPORTANT**
